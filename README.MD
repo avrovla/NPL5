@@ -3,6 +3,7 @@
 2. Активировать окружение: venv\Scripts\activate
 3. Установить зависимости: pip install -r requirements.txt
 4. Открыть блокнот: jupyter notebook NLP5.ipynb
+5. В меню "Run" нажать "Run All Cells"
 
 Описание работы:
 
