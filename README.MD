@@ -11,6 +11,7 @@
 
   Пр1:
   Наивный байесовского классификатор
+
   https://colab.research.google.com/drive/1PE1-ZMKvgFEU3bzm0uCBN3Hk6uyhBZGQ#scrollTo=03JrPK0ax3aZ
 
   Пр2:
